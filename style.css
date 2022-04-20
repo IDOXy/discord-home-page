@@ -1,0 +1,130 @@
+body {
+    background: #402AFF;
+    
+}
+
+.textup {
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    left: 100px;
+    top: 1px;
+    color: aliceblue;
+    margin: 0;
+}
+
+.list ul, li {
+    align-items: center;
+    justify-content: center;
+    list-style-type: none;
+    display: inline-block;
+    position: relative;
+    bottom: 60px;
+    left: 250px;
+    padding: 20px;
+}
+
+.list {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+.list a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.list a:hover {
+    border-bottom: 1px solid whitesmoke;
+}
+
+.button {
+    text-decoration: none;
+    color: black;
+    position: relative;
+    left: 97em;
+    bottom: 12em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: white;
+    padding: 10px 30px;
+    border-radius: 50px;
+}
+
+.button:hover {
+    box-shadow: #000000 5px 5px 5px 0;
+}
+
+.textone p {
+    text-align: center;
+    color: aliceblue;
+    font-family: fantasy;
+    font-size: 100px;
+    position: relative;
+    bottom: 170px;
+    padding: 0px;
+}
+
+.texttwo p {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    width: 40em;
+    margin-left: 10em;
+    text-align: center;
+    position: relative;
+    bottom: 8em;
+}
+
+.img1 {
+    position: relative;
+    bottom: 22.5em;
+    width: 1900px;
+    height: 600px;
+}
+
+.img2 {
+    position: relative;
+    bottom: 51.5em;
+}
+
+.img3 {
+    position: relative;
+    bottom: 51.5em;
+    left: 30em;
+}
+
+.img1, .img2, .img3 {
+    right: 30px;
+}
+
+.button1 {
+    color: black;
+    position: relative;
+    bottom: 57em;
+    left: 23em;
+    background: white;
+    padding: 25px 50px;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serifs;
+    font-size: 20px;
+    border-radius: 50px;
+}
+
+.button1:hover {
+    box-shadow: #000000 5px 5px 5px 0;
+    color: blue;
+}
+
+.button2 {
+    color: rgb(255, 255, 255);
+    position: relative;
+    bottom: 57em;
+    left: 25em;
+    background: rgb(51, 51, 51);
+    padding: 25px 50px;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serifs;
+    font-size: 20px;
+    border-radius: 50px;
+}
+
